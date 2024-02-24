@@ -83,6 +83,8 @@ database.</p>
 <br />
 
 ## 🎓 Certifications & Achievements
+- [RHCSA-I LinkedIn Certification](https://www.linkedin.com/learning/certificates/954f7fdec2fa97a6b794a432c4528fe950ce5164bae2f3bd48a84302173a1639)
+- [RHCSA-II LinkedIn Certification](https://www.linkedin.com/learning/certificates/dd6a1b00586da10016d9f5b31bded8a6f84c95a65c1396b9222260f1d50992cc)
 - [Rest Assured Rest API testing Certification](https://www.linkedin.com/learning/certificates/37ecc9ca16032edc9777a708e89c5ac10b2b58ff0558504379c253b98f87284a)
 - [Linux Command Line Certification](https://www.linkedin.com/learning/certificates/0ff93848d45fbd541be497ea1059be6345e533617570639aa9837b9851b42772)
 - [Python 3.X Certification](https://www.simplilearn.com/free-python-programming-course-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
