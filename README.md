@@ -90,7 +90,7 @@ database.</p>
 - [Linux Command Line Certification](https://www.linkedin.com/learning/certificates/0ff93848d45fbd541be497ea1059be6345e533617570639aa9837b9851b42772)
 - [Python 3.X Certification](https://www.simplilearn.com/free-python-programming-course-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
 - [Git Essential Certification](https://www.linkedin.com/learning/certificates/128afa2c68b821356b7957ceb85514d43e42ff3801481f72ee8d845d509cf4cc)
-- [Docker for Java Developers](https://www.linkedin.com/learning/certificates/c4a580f1c7f142641196e55fbf185ff1fa81d112d5513c4de749ff102d3636e1)
+- [REST APIs](https://www.linkedin.com/learning/certificates/c4a580f1c7f142641196e55fbf185ff1fa81d112d5513c4de749ff102d3636e1)
 <!---
 Suyog1608/Suyog1608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
