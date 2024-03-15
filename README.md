@@ -83,14 +83,16 @@ database.</p>
 <br />
 
 ## 🎓 Certifications & Achievements
+- [Python Automation and Testing](https://www.linkedin.com/learning/certificates/1e4723098ee0ad71b83d289fe71fa15d86f64a48098d118432f6583689155389)       
 - [Docker for Java Developers](https://www.udemy.com/certificate/UC-0feb361a-77c6-404e-ba76-683bb05f6e50/)
-- [RHCSA-I LinkedIn Certification](https://www.linkedin.com/learning/certificates/954f7fdec2fa97a6b794a432c4528fe950ce5164bae2f3bd48a84302173a1639)
-- [RHCSA-II LinkedIn Certification](https://www.linkedin.com/learning/certificates/dd6a1b00586da10016d9f5b31bded8a6f84c95a65c1396b9222260f1d50992cc)
 - [Rest Assured Rest API testing Certification](https://www.linkedin.com/learning/certificates/37ecc9ca16032edc9777a708e89c5ac10b2b58ff0558504379c253b98f87284a)
-- [Linux Command Line Certification](https://www.linkedin.com/learning/certificates/0ff93848d45fbd541be497ea1059be6345e533617570639aa9837b9851b42772)
 - [Python 3.X Certification](https://www.simplilearn.com/free-python-programming-course-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
 - [Git Essential Certification](https://www.linkedin.com/learning/certificates/128afa2c68b821356b7957ceb85514d43e42ff3801481f72ee8d845d509cf4cc)
 - [REST APIs](https://www.linkedin.com/learning/certificates/c4a580f1c7f142641196e55fbf185ff1fa81d112d5513c4de749ff102d3636e1)
+- [Introduction to Artificial Intelligence](https://www.linkedin.com/learning/certificates/ca0d7a55d9eee0e0aff54e261c24cd28d7213eee7396413b195d2971cf65cb70)
+- [Linux Command Line Certification](https://www.linkedin.com/learning/certificates/0ff93848d45fbd541be497ea1059be6345e533617570639aa9837b9851b42772)
+- [RHCSA-I LinkedIn Certification](https://www.linkedin.com/learning/certificates/954f7fdec2fa97a6b794a432c4528fe950ce5164bae2f3bd48a84302173a1639)
+- [RHCSA-II LinkedIn Certification](https://www.linkedin.com/learning/certificates/dd6a1b00586da10016d9f5b31bded8a6f84c95a65c1396b9222260f1d50992cc)
 <!---
 Suyog1608/Suyog1608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
