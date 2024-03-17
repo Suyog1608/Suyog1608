@@ -63,7 +63,7 @@ Pursuing Internship at "Red Hat" as QE Trainee |BSc Computer Science Graduate | 
 ## 👨‍💻 Projects I Contributed Till Now
 <p><b> 1. Quality Engineer Intern in Search Engineering Team, Red Hat </b></p>
 <p> As a QE Trainee,
-         Conducted POCs on Robot Framework and Rest Assured,gaining insights into their applications            and testing methodologies.
+         Conducted POCs on Robot Framework and Rest Assured,gaining insights into their applications and testing methodologies.
          Led the migration of test cases from Karate to Rest
          Assured for search clients, eﬃciently resolving JIRA
          tickets and demonstrating proactive problem-solving
